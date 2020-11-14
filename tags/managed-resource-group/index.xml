@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Managed Resource Group on AlterJev.NL</title>
+    <link>https://alterjev.devjev.nl/tags/managed-resource-group/</link>
+    <description>Recent content in Managed Resource Group on AlterJev.NL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Sep 2020 18:42:15 +0200</lastBuildDate><atom:link href="https://alterjev.devjev.nl/tags/managed-resource-group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set by step guide for a free and easy way to set up a low maintenance blog</title>
+      <link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
+      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
+      
+      <guid>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</guid>
+      <description>https://blog.nillsf.com/index.php/2020/04/07/tag-resources-created-by-a-databricks-cluster/ https://stackoverflow.com/questions/58276984/tag-a-managed-resource-group-for-azure-databricks</description>
+    </item>
+    
+  </channel>
+</rss>

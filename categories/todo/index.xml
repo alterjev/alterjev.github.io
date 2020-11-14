@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TODO on AlterJev.NL</title>
+    <link>https://alterjev.devjev.nl/categories/todo/</link>
+    <description>Recent content in TODO on AlterJev.NL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 04:42:15 +0200</lastBuildDate><atom:link href="https://alterjev.devjev.nl/categories/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TODO</title>
+      <link>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</link>
+      <pubDate>Fri, 09 Oct 2020 04:42:15 +0200</pubDate>
+      
+      <guid>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</guid>
+      <description>https://techcommunity.microsoft.com/t5/azure-tools/how-to-manage-azure-resources-with-the-new-powershell-invoke/ba-p/1540306 https://docs.microsoft.com/en-us/powershell/module/az.accounts/invoke-azrestmethod?view=azps-4.6.1</description>
+    </item>
+    
+    <item>
+      <title>TODO</title>
+      <link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
+      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+      
+      <guid>https://alterjev.devjev.nl/posts/search-azgraph/</guid>
+      <description>Placeholder</description>
+    </item>
+    
+  </channel>
+</rss>
