@@ -36,7 +36,7 @@ Keep in mind that this is not a full in depth comparison of both products but mo
     </item>
     
     <item>
-      <title>Set by step guide for a free and easy way to set up a low maintenance blog</title>
+      <title>Tagging Databricks cluster</title>
       <link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
       <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
       
@@ -63,21 +63,21 @@ Keep in mind that this is not a full in depth comparison of both products but mo
     </item>
     
     <item>
+      <title>Search-AzGraph</title>
+      <link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
+      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+      
+      <guid>https://alterjev.devjev.nl/posts/search-azgraph/</guid>
+      <description>Placeholder</description>
+    </item>
+    
+    <item>
       <title>The pets vs cats analogy</title>
       <link>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</link>
       <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
       
       <guid>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>TODO</title>
-      <link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/posts/search-azgraph/</guid>
-      <description>Placeholder</description>
     </item>
     
   </channel>
