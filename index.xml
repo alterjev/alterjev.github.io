@@ -1,93 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AlterJev.NL</title>
-    <link>https://alterjev.devjev.nl/</link>
-    <description>Recent content on AlterJev.NL</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://alterjev.devjev.nl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GitHub vs Azure DevOps</title>
-      <link>https://alterjev.devjev.nl/posts/github-vs-ado/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/posts/github-vs-ado/</guid>
-      <description>Introduction Recently one of our clients has asked if it might be worthwhile to look into GitHub. They are currently using Azure DevOps and are as far as I understand quite happy with it. So, I drew up a short summary of pro&amp;rsquo;s and cons about GitHub vs Azure DevOps. The response that I got was very enthusiastic. And because of it I decided to share this information here.
-Keep in mind that this is not a full in depth comparison of both products but more of a management summary intended to decide if it would be valuable to look into what GitHub can offer a company that is currently using Azure DevOps.</description>
-    </item>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AlterJev.NL</title>
+        <link>https://alterjev.devjev.nl/</link>
+        <description>Recent content on AlterJev.NL</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Fri, 06 Nov 2020 13:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://alterjev.devjev.nl/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Invoke-RestMethod</title>
-      <link>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</link>
-      <pubDate>Fri, 09 Oct 2020 04:42:15 +0200</pubDate>
+<title>GitHub vs Azure DevOps</title>
+<link>https://alterjev.devjev.nl/posts/github-vs-ado/</link>
+<pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</guid>
-      <description>https://techcommunity.microsoft.com/t5/azure-tools/how-to-manage-azure-resources-with-the-new-powershell-invoke/ba-p/1540306 https://docs.microsoft.com/en-us/powershell/module/az.accounts/invoke-azrestmethod?view=azps-4.6.1</description>
-    </item>
+<description>A high level comparison between GitHub and Azure DevOps</description>
+<tags>GitHub,Azure DevOps,Versus,Comparison,High Level</tags>
+</item>
     
     <item>
-      <title>Set by step guide for a free and easy way to set up a low maintenance blog</title>
-      <link>https://alterjev.devjev.nl/posts/free-blog-with-ado-and-github-pages/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
+<title>Invoke-RestMethod</title>
+<link>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</link>
+<pubDate>Fri, 09 Oct 2020 04:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/free-blog-with-ado-and-github-pages/</guid>
-      <description>Introduction I always struggled with the following; when I find a solution for a certain problem and months down the line I run into a similar problem and try to remember how I solved the previous one. Cursing at myself: Why didn&amp;rsquo;t I write this down!? Like many other IT professionals I created a blog (years ago) to write those solutions down for myself and anyone who stumbles upon the blog.</description>
-    </item>
+<description>TODO</description>
+<tags></tags>
+</item>
     
     <item>
-      <title>Tagging Databricks cluster</title>
-      <link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
+<title>Set by step guide for a free and easy way to set up a low maintenance blog</title>
+<link>https://alterjev.devjev.nl/posts/free-blog-with-ado-and-github-pages/</link>
+<pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</guid>
-      <description>https://blog.nillsf.com/index.php/2020/04/07/tag-resources-created-by-a-databricks-cluster/ https://stackoverflow.com/questions/58276984/tag-a-managed-resource-group-for-azure-databricks</description>
-    </item>
+<description>A simple approach to automating a completely free an low maintenance blog using Azure DevOps, Hugo &amp; GitHub Pages</description>
+<tags>Step by step,Blog,Azure DevOps,GitHub Pages,Hugo</tags>
+</item>
     
     <item>
-      <title>Cloud Dev Tool Comparison</title>
-      <link>https://alterjev.devjev.nl/posts/cloud-dev-tool-comparisation/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+<title>Tagging Databricks cluster</title>
+<link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
+<pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/cloud-dev-tool-comparisation/</guid>
-      <description></description>
-    </item>
+<description>A simple approach to automating a completely free an low maintenance blog using Azure DevOps, Hugo &amp; GitHub Pages</description>
+<tags>Hands-on,Databricks,Tagging,Managed Resource Group</tags>
+</item>
     
     <item>
-      <title>Enabling SSH on a windows machine</title>
-      <link>https://alterjev.devjev.nl/posts/ssh-on-windows/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+<title>Cloud Dev Tool Comparison</title>
+<link>https://alterjev.devjev.nl/posts/cloud-dev-tool-comparisation/</link>
+<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/ssh-on-windows/</guid>
-      <description>https://dev.to/v2kiran/powershell-7-rsa-keys-ssh-remoting-3m7e</description>
-    </item>
+<description>Comparing cloud development options</description>
+<tags></tags>
+</item>
     
     <item>
-      <title>Search-AzGraph</title>
-      <link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+<title>Enabling SSH on a windows machine</title>
+<link>https://alterjev.devjev.nl/posts/ssh-on-windows/</link>
+<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/search-azgraph/</guid>
-      <description>Placeholder</description>
-    </item>
+<description>Enabling and configuring the Windows 10 built-in OpenSSH feature</description>
+<tags></tags>
+</item>
     
     <item>
-      <title>The pets vs cats analogy</title>
-      <link>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
+<title>Search-AzGraph</title>
+<link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
+<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</guid>
-      <description></description>
-    </item>
+<description>TODO</description>
+<tags></tags>
+</item>
     
     <item>
-      <title>About</title>
-      <link>https://alterjev.devjev.nl/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<title>The pets vs cats analogy</title>
+<link>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</link>
+<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
       
-      <guid>https://alterjev.devjev.nl/about/</guid>
-      <description>Experience Jev Suchoi has extensive experience as among others a Solution Architect, Cloud Consultant, Security Consultant, Tech Lead, Infrastructure Engineer, DevOps Engineer and Developer. In his work for different organizations he has accumulated extensive knowledge of Azure, Azure Active Directory and Azure DevOps. With a developer background Jev is able to fully incorporate development principles when designing and implementing cloud solutions. Jev Suchoi is a firm believer in the following concepts &amp;amp; principles as these are key to unlocking the full potential of DevOps and a cloud-native approach.</description>
-    </item>
+<description>The core concept</description>
+<tags>Pets vs Cattle,Analogy,Concept</tags>
+</item>
+    
+    <item>
+<title>About</title>
+<link>https://alterjev.devjev.nl/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+<description>A page about the author - Jev Suchoi</description>
+<tags></tags>
+</item>
     
   </channel>
 </rss>

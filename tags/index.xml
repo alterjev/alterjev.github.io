@@ -1,155 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on AlterJev.NL</title>
-    <link>https://alterjev.devjev.nl/tags/</link>
-    <description>Recent content in Tags on AlterJev.NL</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://alterjev.devjev.nl/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Azure DevOps</title>
-      <link>https://alterjev.devjev.nl/tags/azure-devops/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/azure-devops/</guid>
-      <description></description>
-    </item>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on AlterJev.NL</title>
+        <link>https://alterjev.devjev.nl/tags/</link>
+        <description>Recent content in Tags on AlterJev.NL</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Fri, 06 Nov 2020 13:00:00 +0200</lastBuildDate>
     
-    <item>
-      <title>Comparison</title>
-      <link>https://alterjev.devjev.nl/tags/comparison/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/comparison/</guid>
-      <description></description>
-    </item>
+	<atom:link href="https://alterjev.devjev.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>GitHub</title>
-      <link>https://alterjev.devjev.nl/tags/github/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Level</title>
-      <link>https://alterjev.devjev.nl/tags/high-level/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/high-level/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Versus</title>
-      <link>https://alterjev.devjev.nl/tags/versus/</link>
-      <pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/versus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://alterjev.devjev.nl/tags/blog/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Databricks</title>
-      <link>https://alterjev.devjev.nl/tags/databricks/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/databricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub Pages</title>
-      <link>https://alterjev.devjev.nl/tags/github-pages/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/github-pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hands-on</title>
-      <link>https://alterjev.devjev.nl/tags/hands-on/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://alterjev.devjev.nl/tags/hugo/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Managed Resource Group</title>
-      <link>https://alterjev.devjev.nl/tags/managed-resource-group/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/managed-resource-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Step by step</title>
-      <link>https://alterjev.devjev.nl/tags/step-by-step/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/step-by-step/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tagging</title>
-      <link>https://alterjev.devjev.nl/tags/tagging/</link>
-      <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/tagging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analogy</title>
-      <link>https://alterjev.devjev.nl/tags/analogy/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/analogy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concept</title>
-      <link>https://alterjev.devjev.nl/tags/concept/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/concept/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pets vs Cattle</title>
-      <link>https://alterjev.devjev.nl/tags/pets-vs-cattle/</link>
-      <pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-      <guid>https://alterjev.devjev.nl/tags/pets-vs-cattle/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
