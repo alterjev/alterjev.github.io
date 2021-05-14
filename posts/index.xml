@@ -7,10 +7,19 @@
         <description>Recent content in Posts on AlterJev.NL</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 06 Nov 2020 13:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://alterjev.devjev.nl/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>Test Post</title>
+<link>https://alterjev.devjev.nl/posts/test-post/</link>
+<pubDate>Fri, 14 May 2021 10:00:00 +0200</pubDate>
+      
+<description>This is a demo post</description>
+<tags>TestTag,Another Test Tag,Tag For Testing</tags>
+</item>
     
     <item>
 <title>GitHub vs Azure DevOps</title>
@@ -19,15 +28,6 @@
       
 <description>A high level comparison between GitHub and Azure DevOps</description>
 <tags>GitHub,Azure DevOps,Versus,Comparison,High Level</tags>
-</item>
-    
-    <item>
-<title>Test Post</title>
-<link>https://alterjev.devjev.nl/posts/test-post/</link>
-<pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
-      
-<description>This is a demo post</description>
-<tags>TestTag,Another Test Tag,Tag For Testing</tags>
 </item>
     
     <item>
