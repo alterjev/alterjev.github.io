@@ -21,5 +21,14 @@
 <tags>GitHub,Azure DevOps,Versus,Comparison,High Level</tags>
 </item>
     
+    <item>
+<title>Test Post</title>
+<link>https://alterjev.devjev.nl/posts/test-post/</link>
+<pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
+      
+<description>This is a demo post</description>
+<tags>TestTag,Another Test Tag,Tag For Testing</tags>
+</item>
+    
   </channel>
 </rss>

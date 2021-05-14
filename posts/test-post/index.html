@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Language" content="en">
+
+  
+  <meta name="author" content="Jev Suchoi">
+  <meta name="description" content="This is a demo post">
+  <meta name="keywords" content="Automnation, PowerShell, ARM, YAML, Pipelines, Azure DevOps, Cloud, Microsoft, Azure, blog, developer, personal">
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://alterjev.devjev.nl/images/test-post/header-img.png"/>
+
+<meta name="twitter:title" content="Test Post"/>
+<meta name="twitter:description" content="This is a demo post"/>
+
+  <meta property="og:title" content="Test Post" />
+<meta property="og:description" content="This is a demo post" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://alterjev.devjev.nl/posts/test-post/" />
+<meta property="og:image" content="https://alterjev.devjev.nl/images/test-post/header-img.png" />
+<meta property="article:published_time" content="2020-11-06T13:00:00+02:00" />
+<meta property="article:modified_time" content="2021-05-14T14:11:51+02:00" />
+
+
+  
+  <base href="https://alterjev.devjev.nl/posts/test-post/">
+  
+  <title>
+  Test Post · AlterJev.NL
+</title>
+
+  
+  <link rel="canonical" href="https://alterjev.devjev.nl/posts/test-post/">
+  
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
+    integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+  
+  
+  
+  <link rel="stylesheet" href="https://alterjev.devjev.nl/css/coder.min.cefcae32d597aabf73dbd69114994b69ab7ac71b0ed1b5d4f8fcec44cd5e853d.css" integrity="sha256-zvyuMtWXqr9z29aRFJlLaat6xxsO0bXU&#43;PzsRM1ehT0="
+    crossorigin="anonymous" media="screen" />
+  
+
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://alterjev.devjev.nl/css/coder-dark.min.0efab6bbe7b21f0b438d68c6210426682dc48dc7d6e1d89b2bcb1f70433d223e.css" integrity="sha256-Dvq2u&#43;eyHwtDjWjGIQQmaC3EjcfW4dibK8sfcEM9Ij4="
+    crossorigin="anonymous" media="screen" />
+  
+  
+
+  
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180"
+    href="https://alterjev.devjev.nl/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32"
+    href="https://alterjev.devjev.nl/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16"
+    href="https://alterjev.devjev.nl/images/favicon-16x16.png">
+  <link rel="manifest" href="https://alterjev.devjev.nl/site.webmanifest">
+  <link rel="shortcut icon" href="https://alterjev.devjev.nl/favicon.ico?v=00Bg8oYJjl">
+  <meta name="msapplication-TileColor" content="#3388bb">
+  <meta name="msapplication-TileImage" content="/images/mstile-150x150.png?v=00Bg8oYJjl">
+  <meta name="msapplication-config"
+    content="https://alterjev.devjev.nl/browserconfig.xml">
+  <meta name="theme-color" content="#3388bb">
+
+  <meta name="generator" content="Hugo 0.76.2" />
+</head>
+
+<body class="">
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://alterjev.devjev.nl/">
+      Jev Suchoi
+    </a>
+    
+    <span id="dark-mode-toggle" class="menu-button float-right">
+      <svg width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+                3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+                13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"></path>
+      </svg>
+    </span>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+      
+      <li class="navigation-item">
+        <a class="navigation-link" href="https://alterjev.devjev.nl/posts/">Posts</a>
+      </li>
+      
+      <li class="navigation-item">
+        <a class="navigation-link" href="https://alterjev.devjev.nl/tags/">Tags</a>
+      </li>
+      
+      <li class="navigation-item">
+        <a class="navigation-link" href="https://alterjev.devjev.nl/categories/">Categories</a>
+      </li>
+      
+      <li class="navigation-item">
+        <a class="navigation-link" href="https://alterjev.devjev.nl/about/">About</a>
+      </li>
+      
+      
+      <li class="navigation-item separator">
+        <span>|</span>
+      </li>
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Test Post</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-11-06T13:00:00&#43;02:00'>
+                November 6, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              5-minute read
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="https://alterjev.devjev.nl/categories/comparison/">comparison</a></div>
+
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="https://alterjev.devjev.nl/tags/testtag/">TestTag</a>
+      <span class="separator">•</span>
+    <a href="https://alterjev.devjev.nl/tags/another-test-tag/">Another Test Tag</a>
+      <span class="separator">•</span>
+    <a href="https://alterjev.devjev.nl/tags/tag-for-testing/">Tag For Testing</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+          <img src='https://alterjev.devjev.nl/images/test-post/header-img.png' alt="Featured image"/>
+        
+        <h1 id="introduction">Introduction</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non ligula molestie, sagittis dui vitae, commodo erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam eget ante in nisl imperdiet ullamcorper. Etiam posuere ultricies ex vitae pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam eget laoreet urna. Maecenas in neque imperdiet nunc rutrum mattis ut ut purus. Aliquam erat volutpat. Nullam sit amet dui ipsum. Vestibulum mollis velit nec ex interdum feugiat in ac odio. Curabitur volutpat odio commodo lectus ullamcorper dignissim. Suspendisse faucibus odio vel lacus vehicula sollicitudin. Donec nec rhoncus orci. Quisque non placerat odio. Vestibulum porta augue suscipit odio sollicitudin semper non quis ante.</p>
+<p>Maecenas semper volutpat pharetra. Duis justo neque, tristique at lacus at, varius tempor sem. Aenean at rhoncus nulla. In hac habitasse platea dictumst. Proin non tortor sed elit auctor vehicula. Vestibulum varius neque vel erat commodo, ac consectetur justo tincidunt. Sed non sodales arcu. Sed gravida eros at mollis pharetra. Sed in ipsum dapibus, sagittis sapien et, vehicula neque. Vivamus ac est diam. Sed et enim at metus gravida semper. Proin rutrum, velit ut facilisis vehicula, tellus felis aliquam elit, et maximus enim mi sed ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean diam sapien, tincidunt sed lacus elementum, tincidunt vestibulum nulla.</p>
+<h2 id="chapter-1">Chapter 1</h2>
+<p>Cras nec malesuada libero. Nullam magna risus, interdum eu neque eu, aliquam fermentum ligula. Phasellus cursus, velit quis luctus fermentum, velit mauris feugiat sapien, vel dictum orci libero sit amet enim. Maecenas quis tellus a nulla rutrum cursus a a augue. Nulla facilisi. Pellentesque vitae nisi id mi imperdiet vestibulum. Maecenas sit amet sapien justo. Nulla mattis nibh in porttitor congue. In hac habitasse platea dictumst. Praesent tempus enim sit amet gravida gravida. Duis mollis tellus vitae bibendum vestibulum. Nullam tristique diam in fringilla vehicula.</p>
+<p>Suspendisse sit amet ligula a enim rhoncus dictum. Praesent quis varius tellus. Donec a quam sapien. Pellentesque turpis arcu, mollis luctus sollicitudin mollis, consequat eget nulla. Sed ultricies ex a tellus imperdiet pharetra. Ut neque lacus, egestas nec est eu, lobortis efficitur sem. Nullam blandit, metus ut placerat pulvinar, mauris arcu ullamcorper enim, sit amet consequat odio quam sit amet odio. Curabitur sed iaculis dui, a laoreet dui. Nunc sit amet volutpat mi. Nunc venenatis blandit felis ac posuere.</p>
+<p>Maecenas vitae risus pretium, vulputate quam a, lacinia neque. Donec quis facilisis tellus, at aliquet nunc. Mauris diam lectus, gravida quis aliquam sit amet, ultrices sit amet dolor. Fusce eu posuere dui. Nunc diam dui, iaculis a lectus eu, aliquet euismod risus. Nam magna turpis, fringilla ut hendrerit ac, congue non metus. Cras at nunc quis metus mollis fringilla. Aenean turpis tortor, laoreet ut aliquet vel, tempus eget orci. Cras quis lacus tellus. Ut rhoncus semper turpis, vel pulvinar mi lacinia id. Nulla ut purus tempus, pellentesque nisi quis, tristique augue. Nam viverra diam at lacus commodo, ac laoreet ligula ultrices.</p>
+<h2 id="chapter-2">Chapter 2</h2>
+<p>Suspendisse sit amet magna vel sem bibendum gravida. Sed et felis leo. Fusce viverra tellus quis sollicitudin ullamcorper. Nam molestie condimentum lacus, in efficitur erat. Sed congue vitae metus vel pulvinar. Mauris vehicula, ligula sit amet vestibulum faucibus, felis urna dictum ipsum, eu hendrerit ipsum lorem sed nunc. Sed bibendum non sem ac laoreet. Nulla imperdiet ultrices semper. Sed euismod augue id tincidunt venenatis. Vestibulum eu imperdiet elit. Aliquam erat volutpat. Nunc id consectetur felis. Vivamus sed tincidunt nunc, non tempor metus.</p>
+<p>Morbi id tincidunt purus. Vestibulum lobortis blandit sodales. Phasellus pellentesque aliquet lectus nec tristique. Morbi nec elit luctus magna rutrum auctor. Vivamus vitae ultrices nisi. Pellentesque suscipit vitae ipsum et pulvinar. Phasellus vel augue in purus bibendum rutrum. Praesent sodales consequat quam. Maecenas tincidunt scelerisque purus, in facilisis leo. Vestibulum sollicitudin mauris risus. Donec dapibus dui at mi aliquam vulputate. Etiam ut porttitor eros. Mauris hendrerit feugiat neque, eget venenatis libero. Sed eget tempor ex. Proin eu rutrum justo, sit amet eleifend elit.</p>
+<h2 id="chapter-3">Chapter 3</h2>
+<p>Duis consequat in nulla aliquet rutrum. Nunc luctus bibendum iaculis. Integer eu aliquam neque, ac efficitur velit. Quisque eget urna sapien. Nullam viverra eu mi at pharetra. Pellentesque gravida, quam eget sollicitudin scelerisque, magna purus finibus mi, et faucibus ipsum elit sed velit. Pellentesque ac diam dictum, gravida leo et, egestas erat. Phasellus porta viverra maximus. Suspendisse potenti. Maecenas lacus orci, cursus vel ultricies malesuada, accumsan vel metus. Aliquam vitae ligula vitae nunc sodales tristique ut in diam. Pellentesque euismod bibendum mauris sed pulvinar. Donec molestie nisl ipsum, in laoreet lacus posuere sed. Integer dignissim tortor nibh, in rhoncus est placerat at. Quisque at felis eu lectus vulputate posuere. Ut aliquet nulla quis eros hendrerit dapibus.</p>
+<p>Ut sollicitudin leo urna, nec euismod nibh placerat id. Suspendisse in quam sed metus condimentum volutpat. Etiam at nunc elementum sem cursus ultricies in non ipsum. Aliquam in bibendum mi, in rhoncus nibh. Fusce sed augue convallis, tempor lectus nec, interdum libero. Nunc quis nibh sed tortor interdum euismod. Maecenas finibus leo vitae laoreet ornare. Nulla mauris lorem, efficitur nec sollicitudin auctor, sagittis sollicitudin nulla.</p>
+<p>Phasellus lacus libero, luctus a enim et, dapibus aliquam neque. Pellentesque sollicitudin dolor sed ligula volutpat porta. Nam sed sodales magna. Aliquam cursus velit eget sapien vehicula dictum. In mattis nulla vel orci mollis condimentum. Nam maximus, nisi at egestas sollicitudin, tellus nulla volutpat justo, et feugiat massa elit in tellus. Aliquam sed imperdiet ante. Aenean vulputate sed nisi non vehicula. Integer viverra quis metus in interdum.</p>
+<h2 id="chapter-4">Chapter 4</h2>
+<p>Duis odio massa, dictum vel consequat nec, consectetur et ligula. Quisque tortor orci, fringilla ut purus non, egestas malesuada nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam suscipit tristique dui non commodo. Vivamus dolor diam, interdum tempor venenatis sed, tincidunt quis ligula. Proin in cursus neque. Integer a enim at arcu volutpat condimentum sed nec lorem. Pellentesque id maximus mi.</p>
+<p>Maecenas id lacus mauris. Phasellus consectetur porta ipsum vel fringilla. Quisque ultrices finibus faucibus. Aenean accumsan leo a convallis rutrum. Suspendisse at tempus nisl, eget consequat nisl. Maecenas porta arcu nisi, a hendrerit justo pellentesque id. Aliquam vitae massa dignissim, auctor nisi ac, vulputate urna. Mauris leo odio, gravida at auctor in, interdum vel sapien. Aliquam auctor, nibh non semper gravida, nisl massa tempor quam, eget ultrices ipsum turpis faucibus arcu.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js" id="MathJax-script"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [
+          ['$', '$'], ['\\(', '\\)']
+        ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  </script>
+  </section>
+
+    </div>
+
+    
+  <footer class="footer">
+    <section class="container">
+      
+        <p>Let's automate the boring!</p>
+      
+      
+      
+      
+    </section>
+  </footer>
+
+  </main>
+
+  
+  <script src="https://alterjev.devjev.nl/js/custom.js"></script>
+  
+
+  
+
+  
+
+</body>
+
+</html>

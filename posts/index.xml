@@ -22,6 +22,15 @@
 </item>
     
     <item>
+<title>Test Post</title>
+<link>https://alterjev.devjev.nl/posts/test-post/</link>
+<pubDate>Fri, 06 Nov 2020 13:00:00 +0200</pubDate>
+      
+<description>This is a demo post</description>
+<tags>TestTag,Another Test Tag,Tag For Testing</tags>
+</item>
+    
+    <item>
 <title>Invoke-RestMethod</title>
 <link>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</link>
 <pubDate>Fri, 09 Oct 2020 04:42:15 +0200</pubDate>
