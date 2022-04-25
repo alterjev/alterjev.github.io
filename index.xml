@@ -7,10 +7,46 @@
         <description>Recent content on AlterJev.NL</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 19 May 2021 12:00:00 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://alterjev.devjev.nl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>The 10 commandments for Azure naming conventions</title>
+<link>https://alterjev.devjev.nl/posts/the-10-commandments-for-azure-naming-conventions/</link>
+<pubDate>Mon, 25 Apr 2022 10:00:00 +0200</pubDate>
+      
+<description>The basics for any naming convention in Azure</description>
+<tags>Naming,Naming convention,Azure,Resources,Cloud,Resource naming</tags>
+</item>
+    
+    <item>
+<title>Change the SharePoint domain name in your Microsoft 365 Tenant</title>
+<link>https://alterjev.devjev.nl/posts/change-the-sharepoint-domain-name-in-your-microsoft-365-tenant/</link>
+<pubDate>Wed, 30 Mar 2022 22:42:00 +0200</pubDate>
+      
+<description>How to rename your SharePoint Online url</description>
+<tags>SharePoint,Domain,Root url,Tenant,M365,Rename,Change,Update,SharePoint Online,Office 365</tags>
+</item>
+    
+    <item>
+<title>Your service connection credentials are mine</title>
+<link>https://alterjev.devjev.nl/posts/your-service-connection-credentials-are-mine/</link>
+<pubDate>Sat, 12 Mar 2022 21:00:00 +0100</pubDate>
+      
+<description>A demonstration of service connection credentials exfiltration through an Azure DevOps pipeline</description>
+<tags>Azure DevOps,Pipelines,Hack,Security,Security,Service connection,Secret,Zero Trust,Credentials,Service Connection security,Pipeline permissions</tags>
+</item>
+    
+    <item>
+<title>I am in your pipeline reading all your secrets!</title>
+<link>https://alterjev.devjev.nl/posts/i-am-in-your-pipeline-reading-all-your-secrets/</link>
+<pubDate>Sun, 30 Jan 2022 08:00:00 +0100</pubDate>
+      
+<description>Demo of how a pipeline can be abused to exfiltrate secrets from variables and why variable groups and pipeline security is important</description>
+<tags>Azure DevOps,Pipelines,Hack,Security,Variable Exfiltration,Secret Exfiltration,Zero Trust</tags>
+</item>
     
     <item>
 <title>Hacking Azure DevOps</title>
@@ -19,15 +55,6 @@
       
 <description>Demo of a rather unconventional &amp; unexpected Lateral Movement Attack which utilizes a possible configuration vulnerability in an Azure DevOps Organization</description>
 <tags>Azure DevOps,Pipelines,Hack,Security,Lateral Attack,Unconventional</tags>
-</item>
-    
-    <item>
-<title>Test Post</title>
-<link>https://alterjev.devjev.nl/posts/test-post/</link>
-<pubDate>Fri, 14 May 2021 10:00:00 +0200</pubDate>
-      
-<description>This is a demo post</description>
-<tags>TestTag,Another Test Tag,Tag For Testing</tags>
 </item>
     
     <item>
@@ -40,66 +67,12 @@
 </item>
     
     <item>
-<title>Invoke-RestMethod</title>
-<link>https://alterjev.devjev.nl/posts/invoke-azrestmethod/</link>
-<pubDate>Fri, 09 Oct 2020 04:42:15 +0200</pubDate>
-      
-<description>TODO</description>
-<tags></tags>
-</item>
-    
-    <item>
 <title>Set by step guide for a free and easy way to set up a low maintenance blog</title>
 <link>https://alterjev.devjev.nl/posts/free-blog-with-ado-and-github-pages/</link>
 <pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
       
 <description>A simple approach to automating a completely free an low maintenance blog using Azure DevOps, Hugo &amp; GitHub Pages</description>
 <tags>Step by step,Blog,Azure DevOps,GitHub Pages,Hugo</tags>
-</item>
-    
-    <item>
-<title>Tagging Databricks cluster</title>
-<link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
-<pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-<description>A simple approach to automating a completely free an low maintenance blog using Azure DevOps, Hugo &amp; GitHub Pages</description>
-<tags>Hands-on,Databricks,Tagging,Managed Resource Group</tags>
-</item>
-    
-    <item>
-<title>Cloud Dev Tool Comparison</title>
-<link>https://alterjev.devjev.nl/posts/cloud-dev-tool-comparisation/</link>
-<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-<description>Comparing cloud development options</description>
-<tags></tags>
-</item>
-    
-    <item>
-<title>Enabling SSH on a windows machine</title>
-<link>https://alterjev.devjev.nl/posts/ssh-on-windows/</link>
-<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-<description>Enabling and configuring the Windows 10 built-in OpenSSH feature</description>
-<tags></tags>
-</item>
-    
-    <item>
-<title>Search-AzGraph</title>
-<link>https://alterjev.devjev.nl/posts/search-azgraph/</link>
-<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-<description>TODO</description>
-<tags></tags>
-</item>
-    
-    <item>
-<title>The pets vs cats analogy</title>
-<link>https://alterjev.devjev.nl/posts/pets-vs-cattle-analogy/</link>
-<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-<description>The core concept</description>
-<tags>Pets vs Cattle,Analogy,Concept</tags>
 </item>
     
     <item>

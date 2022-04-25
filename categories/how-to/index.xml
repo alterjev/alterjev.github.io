@@ -21,23 +21,5 @@
 <tags>Step by step,Blog,Azure DevOps,GitHub Pages,Hugo</tags>
 </item>
     
-    <item>
-<title>Tagging Databricks cluster</title>
-<link>https://alterjev.devjev.nl/posts/tagging-azure-databricks-managed-group/</link>
-<pubDate>Thu, 10 Sep 2020 18:42:15 +0200</pubDate>
-      
-<description>A simple approach to automating a completely free an low maintenance blog using Azure DevOps, Hugo &amp; GitHub Pages</description>
-<tags>Hands-on,Databricks,Tagging,Managed Resource Group</tags>
-</item>
-    
-    <item>
-<title>Enabling SSH on a windows machine</title>
-<link>https://alterjev.devjev.nl/posts/ssh-on-windows/</link>
-<pubDate>Fri, 15 May 2020 13:42:15 +0200</pubDate>
-      
-<description>Enabling and configuring the Windows 10 built-in OpenSSH feature</description>
-<tags></tags>
-</item>
-    
   </channel>
 </rss>
